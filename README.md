@@ -5,6 +5,9 @@ Fast. Powerful. Clean. [Zephyr](http://getzephyrapp.net) is an App.net client fo
 This is the open-source release of Zephyr. If anyone wants to take it and
 improve it, please go right ahead. We won't be supporting this release. Please feel free to [fork the code](https://github.com/enderlabs/ZephyrAppDotNet), and submit pull requests for any new features or fixes.
 
+## Screenshots
+![Zephyr](https://getzephyrapp.com/images/iphone1.png "Zephyr")
+
 ## Important
 Zephyr uses a number of API keys that are not included in this repository.
 You can find them defined in Keys.h. At minimum, you must supply the app.net
