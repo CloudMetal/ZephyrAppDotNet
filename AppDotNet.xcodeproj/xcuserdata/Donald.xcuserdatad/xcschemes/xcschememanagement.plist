@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>AppDotNetBinary.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>AppDotNetBinaryDevice.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>AppDotNetBinarySimulator.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>NET 3000.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>4006C39E15FE553F008A3B60</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>400C149415ED69B100F7A0D7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4022209615FE5139003DD106</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>402221B915FE5376003DD106</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

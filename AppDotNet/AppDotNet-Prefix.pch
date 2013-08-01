@@ -1,0 +1,26 @@
+//
+// Prefix header for all source files of the 'AppDotNet' target in the 'AppDotNet' project
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_3_0
+#warning "This project uses features only available in iOS SDK 3.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+    #import "NSMutableAttributedString+UIKit.h"
+    #import "UIApplication+Sandbox.h"
+    #import "UIColor+AppDotNet.h"
+    #import "UIViewController+TabBarItem.h"
+    #import "NSArray+HOF.h"
+    #import "UIApplication+PushNotification.h"
+    #import "UIApplication+RefreshNotification.h"
+    #import "UIImage+Resizing.h"
+    #import "UITableView+AppStyle.h"
+    #import "UITableViewCell+AppStyle.h"
+    #import "TestFlight.h"
+    #import "Keys.h"
+#endif
