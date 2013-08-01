@@ -1,5 +1,5 @@
 ## AppDotNet
-Fast. Powerful. Clean. [Zephyr](http://getzephyrapp.net) is an App.net client for iOS. This universal app can be enjoyed on all of your devices - iPhone, iPod touch, and iPad. 
+Fast. Powerful. Clean. [Zephyr](http://getzephyrapp.net) is an App.net client for iOS. This universal app can be enjoyed on all of your devices - iPhone, iPod touch, and iPad. [Download it for free in the App Store](https://itunes.apple.com/us/app/zephyr-for-app.net/id568686098?mt=8).
 
 ## iOS App.net Client
 This is the open-source release of Zephyr. If anyone wants to take it and
