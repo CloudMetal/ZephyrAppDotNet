@@ -7,6 +7,7 @@ improve it, please go right ahead. We won't be supporting this release. Please f
 
 ## Screenshots
 ![Zephyr](https://getzephyrapp.com/images/iphone1.png "Zephyr")
+![Zephyr](https://getzephyrapp.com/images/iphone2.png "Zephyr")
 
 ## Important
 Zephyr uses a number of API keys that are not included in this repository.
